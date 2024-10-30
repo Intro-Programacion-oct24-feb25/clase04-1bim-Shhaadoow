@@ -20,7 +20,9 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        // La variable nombreEstudiante toma un nuevo valor ya asignado antes
         nombreEstudiante = "Felipe Elizalde";
+        // Se imprime el nuevo valor dado a la variable nombreEstudiante
         System.out.println(nombreEstudiante);
     }
     
