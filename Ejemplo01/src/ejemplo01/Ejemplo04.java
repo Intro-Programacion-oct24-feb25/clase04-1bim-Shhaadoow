@@ -18,5 +18,10 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+        
+/* 
+ * El print solo presenta todas las variables de manera horizontal
+ * El prinln logra hacer un salto de línea e imprimir las variables una abajo de otra
+ */
     }
 }
